@@ -1,2 +1,2 @@
 hello git!!!
-hot-fix
+hot-fix 1.0
